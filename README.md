@@ -6,7 +6,7 @@ Para entrar no grupo oficial do CaririDev no Telegram basta seguir o link [https
 
 ## Aulas
 
-Sairão em média *1 aulas** por semana.
+Sairão em média *1 aulas* por semana.
 
 # O Professor
 
