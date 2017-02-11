@@ -25,11 +25,11 @@ A aula segue o seguinte **script** até ser divulgada:
 
 ## Início
 
-**Sempre as 22 horas **
+** A primeira terá inicio no dia 20 no horário de 22 horas e as demais no mesmo horário **
 
 # Roteiro
 
-**CUIDADO!!! Alterações podem ser feitas sem aviso prévio, por isso SEMPRE LEIA AQUI!!!!**
+** CUIDADO!!! Alterações podem ser feitas sem aviso prévio, por isso SEMPRE LEIA AQUI!!!! **
 
 ## Duração
 - **MongoDB (10 horas)**
