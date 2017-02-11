@@ -25,7 +25,7 @@ A aula segue o seguinte **script** até ser divulgada:
 
 ## Início
 
-**A primeira aula terá início no dia 20/02/2017 no horário de 22 horas e as demais no mesmo horário nas semanas seguintes**
+**A primeira aula terá início no dia 20/02/2017 no horário de 22 horas e as demais no mesmo horário nas semanas seguintes.**
 
 # Roteiro
 
