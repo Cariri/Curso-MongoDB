@@ -29,7 +29,7 @@ A aula segue o seguinte **script** até ser divulgada:
 
 # Roteiro
 
-##**CUIDADO!!! Alterações podem ser feitas sem aviso prévio, por isso SEMPRE LEIA AQUI!!!!**
+**CUIDADO!!! Alterações podem ser feitas sem aviso prévio, por isso SEMPRE LEIA AQUI!!!!**
 
 ## Duração
 - **MongoDB (10 horas)**
